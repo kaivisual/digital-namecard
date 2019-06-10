@@ -199,6 +199,8 @@ img.profile-pic {
   float: left;
   width: 10%;
   padding: 2px;
+	margin-left: auto;
+  margin-right: auto;
 }
 
 /* Clear floats after image containers */
