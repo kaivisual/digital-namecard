@@ -206,4 +206,6 @@ img.profile-pic {
   content: "";
   clear: both;
   display: table;
+margin-left: auto;
+  margin-right: auto;
 }
