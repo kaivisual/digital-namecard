@@ -56,6 +56,30 @@ img.profile-pic {
 	width: 100%;
 }
 
+.col1 {
+	display: block;
+	flex-basis: 0;
+	flex-grow: 1;
+	flex-shrink: 1;
+	margin: 0;
+	padding-right: 0px;
+	max-width: 100%;
+	max-height: 100%;
+	overflow: auto;
+}
+
+.col2 {
+	display: block;
+	flex-basis: 0;
+	flex-grow: 1;
+	flex-shrink: 1;
+	margin: 0;
+	padding-left: 0px;
+	max-width: 100%;
+	max-height: 100%;
+	overflow: auto;
+}
+
 .col {
 	display: block;
 	flex-basis: 0;
