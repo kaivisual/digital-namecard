@@ -123,11 +123,10 @@ img.profile-pic {
 }
 
 hr {
-width: 300px;
 margin-left: auto;
 margin-right: auto;
-height: 100px;
-background-color:#666;
+height: 10px;
+background-color:#000000;
 opcaity: 0.5;
 }
 
