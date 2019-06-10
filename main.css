@@ -122,14 +122,6 @@ img.profile-pic {
 	height: 100%;
 }
 
-hr {
-margin-left: auto;
-margin-right: auto;
-height: 1px;
-background-color:#000000;
-opcaity: 0.5;
-}
-
 .banner {
 	height: 30%;
 }
