@@ -62,6 +62,7 @@ img.profile-pic {
 	flex-grow: 1;
 	flex-shrink: 1;
 	margin: 0;
+	padding-left: 100px;
 	padding-right: 0px;
 	max-width: 100%;
 	max-height: 100%;
@@ -75,6 +76,7 @@ img.profile-pic {
 	flex-shrink: 1;
 	margin: 0;
 	padding-left: 0px;
+	padding-right: 100px;
 	max-width: 100%;
 	max-height: 100%;
 	overflow: auto;
