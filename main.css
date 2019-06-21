@@ -134,6 +134,7 @@ img.profile-pic {
 
 .secondary-info {
 	height: 8%;
+	padding: 10px 0px;
 }
 
 .bg-color-grey {
@@ -164,7 +165,6 @@ img.profile-pic {
     font-weight: 300;
     color: #575757;
     font-size: 14px;
-	padding: 10px 0px;
 }
 
 .bottom {
